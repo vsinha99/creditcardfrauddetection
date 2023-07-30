@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score
 
 
 # loading the dataset to a Pandas DataFrame
-credit_card_data = pd.read_csv(r'C:\Users\Varuns\PythonProjects\credit_data\creditcard.csv')
+credit_card_data = pd.read_csv(r'[YOUR FILE PATH HERE]')
 
 
 # first 5 rows of the dataset (add print at the front to run it)
