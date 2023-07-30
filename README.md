@@ -8,5 +8,7 @@ dataset link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 How to run the program:
 
 1. Install VSCode (or IDE of choice): https://code.visualstudio.com/download
-2. Download Anaconda Interpreter: https://www.anaconda.com/download
-3. Run Program
+2. Download Anaconda Interpreter (my version is 3.10.9): https://www.anaconda.com/download
+3. Download the dataset using the link above
+4. In Line 9, insert the pathway of your dataset where prompted
+5. Run Program
